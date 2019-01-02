@@ -5,7 +5,7 @@ def unsafe?(speed)
   elsif  speed == speed > 60
     print
       true
-  else speed 
+  else speed == (40..60)
     print 
       false
 end
