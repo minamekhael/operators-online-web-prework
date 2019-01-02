@@ -1,4 +1,4 @@
-def unsafe?(int)
+def unsafe?(speed)
   if int == int < 40 || int > 60
     puts true
   else 
