@@ -1,7 +1,10 @@
 def unsafe?(speed)
   if speed == speed > 60
-    print true
+    print 
       true
+  else
+    print
+      false
 end
 end
 
